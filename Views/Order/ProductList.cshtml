@@ -1,0 +1,37 @@
+﻿@model IEnumerable<SolidOrderProcessing.Models.Product>
+
+<h2>Product List (Placed Orders)</h2>
+
+@if (TempData["Message"] != null)
+{
+    <div style="padding:10px; background-color:lightgreen; border:1px solid green; margin-bottom:10px;">
+        @TempData["Message"]
+    </div>
+}
+
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>Name</th>
+            <th>Price (R)</th>
+        </tr>
+    </thead>
+    <tbody>
+        @if (!Model.Any())
+        {
+            <tr>
+                <td colspan="2">No orders placed yet.</td>
+            </tr>
+        }
+        else
+        {
+            foreach (var product in Model)
+            {
+                <tr>
+                    <td>@product.Name</td>
+                    <td>@product.Price</td>
+                </tr>
+            }
+        }
+    </tbody>
+</table>
