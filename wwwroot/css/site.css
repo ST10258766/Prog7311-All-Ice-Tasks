@@ -29,6 +29,7 @@ body {
 .form-floating > .form-control-plaintext:focus::placeholder, .form-floating > .form-control:focus::placeholder {
   text-align: start;
 }
+<<<<<<< HEAD
 body {
     background: linear-gradient(135deg, #f0f4f8, #d9e4f5);
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
@@ -109,3 +110,7 @@ input.form-control {
     .order-form .btn {
         width: 100%;
     }
+=======
+
+<tr class="@(isOverdue ? "table-danger" : "")" >
+>>>>>>> 0b32b568913dd742e9ab80fc8b6efe6b0c7d873e
