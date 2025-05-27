@@ -1,6 +1,7 @@
 {
   "format": 1,
   "restore": {
+<<<<<<< HEAD:obj/SolidOrderProcessing.csproj.nuget.dgspec.json
     "C:\\Users\\lab_services_student\\source\\repos\\SolidOrderProcessing\\SolidOrderProcessing.csproj": {}
   },
   "projects": {
@@ -12,6 +13,19 @@
         "projectPath": "C:\\Users\\lab_services_student\\source\\repos\\SolidOrderProcessing\\SolidOrderProcessing.csproj",
         "packagesPath": "C:\\Users\\lab_services_student\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\lab_services_student\\source\\repos\\SolidOrderProcessing\\obj\\",
+=======
+    "C:\\Users\\lab_services_student\\Source\\Repos\\prog7311-ice-task-4-ST10258766\\HotelBookingSystem.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\lab_services_student\\Source\\Repos\\prog7311-ice-task-4-ST10258766\\HotelBookingSystem.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\lab_services_student\\Source\\Repos\\prog7311-ice-task-4-ST10258766\\HotelBookingSystem.csproj",
+        "projectName": "HotelBookingSystem",
+        "projectPath": "C:\\Users\\lab_services_student\\Source\\Repos\\prog7311-ice-task-4-ST10258766\\HotelBookingSystem.csproj",
+        "packagesPath": "C:\\Users\\lab_services_student\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\lab_services_student\\Source\\Repos\\prog7311-ice-task-4-ST10258766\\obj\\",
+>>>>>>> 1e0b8cc (Ice Task 4):obj/HotelBookingSystem.csproj.nuget.dgspec.json
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

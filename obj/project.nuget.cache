@@ -1,9 +1,15 @@
 {
   "version": 2,
 <<<<<<< HEAD
+<<<<<<< HEAD
   "dgSpecHash": "QIqZindPfr4=",
   "success": true,
   "projectFilePath": "C:\\Users\\lab_services_student\\source\\repos\\SolidOrderProcessing\\SolidOrderProcessing.csproj",
+=======
+  "dgSpecHash": "Rgp4rjNNQLw=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\lab_services_student\\Source\\Repos\\prog7311-ice-task-4-ST10258766\\HotelBookingSystem.csproj",
+>>>>>>> 1e0b8cc (Ice Task 4)
   "expectedPackageFiles": [],
 =======
   "dgSpecHash": "X2R0WDSQ1Gg=",
